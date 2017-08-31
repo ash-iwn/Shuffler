@@ -1,0 +1,6 @@
+C:\Users\amahe\repos\Shuffler\bin\Debug\Shuffler.exe.config
+C:\Users\amahe\repos\Shuffler\bin\Debug\Shuffler.exe
+C:\Users\amahe\repos\Shuffler\bin\Debug\Shuffler.pdb
+C:\Users\amahe\repos\Shuffler\obj\Debug\Shuffler.csprojResolveAssemblyReference.cache
+C:\Users\amahe\repos\Shuffler\obj\Debug\Shuffler.exe
+C:\Users\amahe\repos\Shuffler\obj\Debug\Shuffler.pdb
